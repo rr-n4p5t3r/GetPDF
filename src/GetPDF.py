@@ -1,3 +1,6 @@
+# GetPDF
+# Script para extraer el contenido de un archivo pdf y almacenarlo en un archivo json 
+# n4p5t3r - Ricardo Rosero - rrosero2000@gmail.com
 import argparse
 from PyPDF2 import PdfReader
 import re
